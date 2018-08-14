@@ -1,0 +1,48 @@
+header{
+    margin: 15px auto;
+    width: 500px;
+    display: block;
+}
+
+h1{
+    display: inline;
+}
+
+img{
+    display: inline;
+}
+
+body{
+    background: #b8b894;
+}
+
+.blue{
+    background: #99d6ff;
+}
+
+.red{
+    background: #ff8080;
+}
+
+.pic{
+    height: 200px;
+}
+
+.headImage{
+    height: 60px;
+    widows: 90px;
+}
+
+#row{
+    width: 1280px;
+    margin: 5px auto 5px auto;
+}
+
+#box{
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 5px black solid;
+}
+
